@@ -1,0 +1,11 @@
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\bin\Debug\net6.0\test-cloud.exe
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\bin\Debug\net6.0\AppCenter.UITest.Android.deps.json
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\bin\Debug\net6.0\AppCenter.UITest.Android.dll
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\bin\Debug\net6.0\AppCenter.UITest.Android.pdb
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\obj\Debug\net6.0\AppCenter.UITest.Android.csproj.AssemblyReference.cache
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\obj\Debug\net6.0\AppCenter.UITest.Android.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\obj\Debug\net6.0\AppCenter.UITest.Android.csproj.CoreCompileInputs.cache
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\obj\Debug\net6.0\AppCenter.UITest.Android.dll
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\obj\Debug\net6.0\refint\AppCenter.UITest.Android.dll
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\obj\Debug\net6.0\AppCenter.UITest.Android.pdb
+C:\Users\ankasani\Downloads\Generated\AppCenter.UITest.Android\obj\Debug\net6.0\ref\AppCenter.UITest.Android.dll
